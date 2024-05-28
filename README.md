@@ -5,11 +5,11 @@
 
 
 
-📖Estou estudando na Alura e EBAC mail📖
+📖Estou estudando na Alura e EBAC 📖
 
 
 
-🖥️Estou me desenvolvendo na linguagem JavaScript e Python mail🖥️
+🖥️Estou me desenvolvendo na linguagem JavaScript e Python 🖥️
 
 
 
