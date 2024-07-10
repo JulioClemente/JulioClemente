@@ -1,26 +1,18 @@
-## Ola 
+##  Sobre mim
+Sou um analista de dados, estudando na EBAC
 
 
-🐈‍⬛Meu nome é Julio🐈‍⬛
+## 
 
+ Estou aprendendo Python e banco de dados SQL 
 
+ Procuro colaborar em Analise de Dados 
 
-📖Estou estudando na Alura e EBAC 📖
-
-
-
-🖥️Estou me desenvolvendo na linguagem JavaScript e Python 🖥️
-
-
-
-🖥️Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos🖥️
+ Como entrar em contato comigo-->juliooliclemente@gmail.com
 
 
 
 
-✉️Você pode entrar em contato comigo✉️
-
-
-
-🐈‍⬛juliooliclemente@gmail.com @JulioClemente🐈‍⬛
-
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.kaggle.com/juliooliveira312)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-de-oliveira-clemente-0144732a5/)
