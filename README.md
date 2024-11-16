@@ -1,10 +1,10 @@
 ##  Sobre mim
-Sou um analista de dados, estudando na EBAC
+Sou um analista de dados, Formado na EBAC
 
 
 ## 
 
- Estou aprendendo Python e banco de dados SQL 
+ Python,machine learning, planilhas excel, dashoboards, AWS, Lokker Studio e banco de dados SQL 
 
  Procuro colaborar em Analise de Dados 
 
